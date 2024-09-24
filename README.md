@@ -1,0 +1,2 @@
+"# Ventilation-system"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/Mohamed-Adnan100/Ventilation-system.git git pushÿ-uÿoriginÿmain
+"# Ventilation-system"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/Mohamed-Adnan100/Ventilation-system.git git pushÿ-uÿoriginÿmain
